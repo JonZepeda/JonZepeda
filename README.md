@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Jonathan Zepeda
 
-<!--
-**JonZepeda/JonZepeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante del 3ro año de Ingeniería en Sistemas  
+💻 Futuro Desarrollador Web Full Stack  
+🚀 Apasionado por la tecnología, la programación y el aprendizaje continuo  
 
-Here are some ideas to get you started:
+### 🧰 Tecnologías que estoy aprendiendo
+- HTML, CSS, JavaScript
+- React, Angular y Node.js  
+- .NET y C#
+- Java y Springboot
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Actualmente
+Desarrollando mi portafolio web y practicando con proyectos personales.
+
+📫 **Contáctame:** [jzepe2003@gmail.com](mailto:jzepe2003@gmail.com)
+
